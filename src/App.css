@@ -603,6 +603,12 @@ main {
   transition: transform 0.45s ease, background 0.45s ease;
 }
 
+.service-icon.material-symbols-outlined {
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: normal;
+}
+
 .service-card::before {
   content: '';
   position: absolute;
